@@ -1,7 +1,7 @@
 
 <p align="center">
   <h3 align="center">heitorgouvea.me</h3>
-  <p align="center">Just a web page.</p>
+  <p align="center">Just my simple blog write with Jekyll</p>
 
   <p align="center">
     <a href="https://github.com/GouveaHeitor/gouveaheitor.github.io/blob/master/LICENSE.md">
@@ -25,7 +25,7 @@
 
 #### Stack
 
-- HTML5/CSS3/JS/Jekyll
+- HTML5 / CSS3 / JS / Jekyll
 
 #### Bugs
 
